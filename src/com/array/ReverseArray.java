@@ -15,6 +15,7 @@ public class ReverseArray {
     public static void main(String[] args) {
         Integer[] arr={5,2,4,7,5,5};
         reverse(arr);
+        System.out.print("Hello github");
     }
 
 }
